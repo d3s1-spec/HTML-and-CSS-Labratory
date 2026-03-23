@@ -5,7 +5,7 @@ Templates of Hyper Text Markup Language and Cascasding Style Sheet (HTML and CSS
 Go to the [Realeases Tab](https://github.com/d3s1-spec/HTML-and-CSS-Labratory/releases) and choose your template. It's not that hard.
 
 # How to request a template
-1. Fork this template
+1. [Fork](https://github.com/d3s1-spec/HTML-and-CSS-Labratory/fork) this template
 2. Make a pull request and fill the PR Template
 3. Wait a a week or two for it to get made and published
 **DO NOT MAKE A PR REQUEST IF THIS TEMPLATE EXISTS!!!***
