@@ -2,7 +2,7 @@
 Templates of Hyper Text Markup Language and Cascasding Style Sheet (HTML and CSS basically)
 
 # How to download
-Go to the Realeases Tab and choose your template. It's not that hard.
+Go to the [Realeases Tab](https://github.com/d3s1-spec/HTML-and-CSS-Labratory/releases) and choose your template. It's not that hard.
 
 # How to request a template
 1. Fork this template
